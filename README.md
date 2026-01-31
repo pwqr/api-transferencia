@@ -26,9 +26,9 @@ uma transação. Após a transferência, uma notificação é enviada de forma a
 
 ### Configuração do ambiente:
 
-Executar o comando abaixo para iniciar o serviço:
 ```bash
-make start
+git clone https://github.com/pwqr/api-transferencia.git
+cd api-transferencia
 ```
 
 ---
