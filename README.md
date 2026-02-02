@@ -44,7 +44,7 @@ make test
 # Parar os containers
 make stop
 
-# Visualizar os logs
+# Visualizar as logs
 make logs
 ```
 

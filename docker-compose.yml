@@ -14,7 +14,7 @@ services:
       - DB_PORT=5432
       - DB_DATABASE=picpay
       - DB_USERNAME=postgres
-      - DB_PASSWORD=secret
+      - DB_PASSWORD=2dsajd8210
       - QUEUE_CONNECTION=redis
       - CACHE_DRIVER=redis
       - REDIS_HOST=redis
